@@ -1,0 +1,13 @@
+@font-face {
+    font-family: font1;
+    src: url(../public/FunnelSans-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: font2;
+    src: url(../public/FunnelSans-VariableFont_wght.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
