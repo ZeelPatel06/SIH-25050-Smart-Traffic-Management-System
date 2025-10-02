@@ -37,4 +37,8 @@ Web applications for commuters with real-time updates.
 
 https://github.com/user-attachments/assets/fea2ea53-690e-4f08-8dc7-28ef331e81b2
 
+# SUMO Simulation DEMO
+We have developed a basic prototype simulation video and are currently working on integrating a reinforcement learning algorithm to enhance system performance.
+
+[Screencast from 2025-10-02 13-28-07.webm](https://github.com/user-attachments/assets/e485ad2b-6dac-46d5-82e4-4c8420eef0f6)
 
